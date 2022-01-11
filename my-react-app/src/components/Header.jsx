@@ -9,7 +9,6 @@ function Header({ text , colorText, colorBackground }) {
         color: colorText,
         padding: '1.1rem',
         textAlign: 'center',
-        textTransform: 'uppercase'
     }
 
     return (
